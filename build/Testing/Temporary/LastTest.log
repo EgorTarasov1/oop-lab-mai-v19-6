@@ -1,0 +1,416 @@
+Start testing: Dec 03 02:15 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/15 Testing: NPCFactoryTest.CreateThief
+1/15 Test: NPCFactoryTest.CreateThief
+Command: "C:/Users/Xiaomi/Desktop/l6/build/test_l6.exe" "--gtest_filter=NPCFactoryTest.CreateThief" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l6/build
+"NPCFactoryTest.CreateThief" start time: Dec 03 02:15 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NPCFactoryTest.CreateThief
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCFactoryTest
+[ RUN      ] NPCFactoryTest.CreateThief
+[       OK ] NPCFactoryTest.CreateThief (0 ms)
+[----------] 1 test from NPCFactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCFactoryTest.CreateThief" end time: Dec 03 02:15 RTZ 2 (çèìà)
+"NPCFactoryTest.CreateThief" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/15 Testing: NPCFactoryTest.CreateOrc
+2/15 Test: NPCFactoryTest.CreateOrc
+Command: "C:/Users/Xiaomi/Desktop/l6/build/test_l6.exe" "--gtest_filter=NPCFactoryTest.CreateOrc" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l6/build
+"NPCFactoryTest.CreateOrc" start time: Dec 03 02:15 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NPCFactoryTest.CreateOrc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCFactoryTest
+[ RUN      ] NPCFactoryTest.CreateOrc
+[       OK ] NPCFactoryTest.CreateOrc (0 ms)
+[----------] 1 test from NPCFactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCFactoryTest.CreateOrc" end time: Dec 03 02:15 RTZ 2 (çèìà)
+"NPCFactoryTest.CreateOrc" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/15 Testing: NPCFactoryTest.CreateWerewolf
+3/15 Test: NPCFactoryTest.CreateWerewolf
+Command: "C:/Users/Xiaomi/Desktop/l6/build/test_l6.exe" "--gtest_filter=NPCFactoryTest.CreateWerewolf" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l6/build
+"NPCFactoryTest.CreateWerewolf" start time: Dec 03 02:15 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NPCFactoryTest.CreateWerewolf
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCFactoryTest
+[ RUN      ] NPCFactoryTest.CreateWerewolf
+[       OK ] NPCFactoryTest.CreateWerewolf (0 ms)
+[----------] 1 test from NPCFactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCFactoryTest.CreateWerewolf" end time: Dec 03 02:15 RTZ 2 (çèìà)
+"NPCFactoryTest.CreateWerewolf" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/15 Testing: NPCFactoryTest.CreateInvalidNPC
+4/15 Test: NPCFactoryTest.CreateInvalidNPC
+Command: "C:/Users/Xiaomi/Desktop/l6/build/test_l6.exe" "--gtest_filter=NPCFactoryTest.CreateInvalidNPC" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l6/build
+"NPCFactoryTest.CreateInvalidNPC" start time: Dec 03 02:15 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NPCFactoryTest.CreateInvalidNPC
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCFactoryTest
+[ RUN      ] NPCFactoryTest.CreateInvalidNPC
+[       OK ] NPCFactoryTest.CreateInvalidNPC (0 ms)
+[----------] 1 test from NPCFactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCFactoryTest.CreateInvalidNPC" end time: Dec 03 02:15 RTZ 2 (çèìà)
+"NPCFactoryTest.CreateInvalidNPC" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/15 Testing: NPCTest.ThiefCanFightInRange
+5/15 Test: NPCTest.ThiefCanFightInRange
+Command: "C:/Users/Xiaomi/Desktop/l6/build/test_l6.exe" "--gtest_filter=NPCTest.ThiefCanFightInRange" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l6/build
+"NPCTest.ThiefCanFightInRange" start time: Dec 03 02:15 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NPCTest.ThiefCanFightInRange
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.ThiefCanFightInRange
+[       OK ] NPCTest.ThiefCanFightInRange (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.ThiefCanFightInRange" end time: Dec 03 02:15 RTZ 2 (çèìà)
+"NPCTest.ThiefCanFightInRange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/15 Testing: NPCTest.ThiefCannotFightOutOfRange
+6/15 Test: NPCTest.ThiefCannotFightOutOfRange
+Command: "C:/Users/Xiaomi/Desktop/l6/build/test_l6.exe" "--gtest_filter=NPCTest.ThiefCannotFightOutOfRange" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l6/build
+"NPCTest.ThiefCannotFightOutOfRange" start time: Dec 03 02:15 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NPCTest.ThiefCannotFightOutOfRange
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.ThiefCannotFightOutOfRange
+[       OK ] NPCTest.ThiefCannotFightOutOfRange (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.ThiefCannotFightOutOfRange" end time: Dec 03 02:15 RTZ 2 (çèìà)
+"NPCTest.ThiefCannotFightOutOfRange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/15 Testing: NPCTest.InitialState
+7/15 Test: NPCTest.InitialState
+Command: "C:/Users/Xiaomi/Desktop/l6/build/test_l6.exe" "--gtest_filter=NPCTest.InitialState" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l6/build
+"NPCTest.InitialState" start time: Dec 03 02:15 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NPCTest.InitialState
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.InitialState
+[       OK ] NPCTest.InitialState (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.InitialState" end time: Dec 03 02:15 RTZ 2 (çèìà)
+"NPCTest.InitialState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/15 Testing: BattleTest.OrcKillsThief
+8/15 Test: BattleTest.OrcKillsThief
+Command: "C:/Users/Xiaomi/Desktop/l6/build/test_l6.exe" "--gtest_filter=BattleTest.OrcKillsThief" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l6/build
+"BattleTest.OrcKillsThief" start time: Dec 03 02:15 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BattleTest.OrcKillsThief
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BattleTest
+[ RUN      ] BattleTest.OrcKillsThief
+Orc1 is killing Thief1!
+Thief1 was killed by Orc1
+[       OK ] BattleTest.OrcKillsThief (0 ms)
+[----------] 1 test from BattleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BattleTest.OrcKillsThief" end time: Dec 03 02:15 RTZ 2 (çèìà)
+"BattleTest.OrcKillsThief" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/15 Testing: BattleTest.WerewolfKillsThief
+9/15 Test: BattleTest.WerewolfKillsThief
+Command: "C:/Users/Xiaomi/Desktop/l6/build/test_l6.exe" "--gtest_filter=BattleTest.WerewolfKillsThief" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l6/build
+"BattleTest.WerewolfKillsThief" start time: Dec 03 02:15 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BattleTest.WerewolfKillsThief
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BattleTest
+[ RUN      ] BattleTest.WerewolfKillsThief
+Wolf1 is killing Thief1!
+Thief1 was killed by Wolf1
+[       OK ] BattleTest.WerewolfKillsThief (0 ms)
+[----------] 1 test from BattleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BattleTest.WerewolfKillsThief" end time: Dec 03 02:15 RTZ 2 (çèìà)
+"BattleTest.WerewolfKillsThief" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/15 Testing: BattleTest.ThiefVsWerewolf
+10/15 Test: BattleTest.ThiefVsWerewolf
+Command: "C:/Users/Xiaomi/Desktop/l6/build/test_l6.exe" "--gtest_filter=BattleTest.ThiefVsWerewolf" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l6/build
+"BattleTest.ThiefVsWerewolf" start time: Dec 03 02:15 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BattleTest.ThiefVsWerewolf
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BattleTest
+[ RUN      ] BattleTest.ThiefVsWerewolf
+Wolf1 is killing Thief1!
+Thief1 was killed by Wolf1
+[       OK ] BattleTest.ThiefVsWerewolf (0 ms)
+[----------] 1 test from BattleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BattleTest.ThiefVsWerewolf" end time: Dec 03 02:15 RTZ 2 (çèìà)
+"BattleTest.ThiefVsWerewolf" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/15 Testing: BattleTest.RemoveDeadNPCs
+11/15 Test: BattleTest.RemoveDeadNPCs
+Command: "C:/Users/Xiaomi/Desktop/l6/build/test_l6.exe" "--gtest_filter=BattleTest.RemoveDeadNPCs" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l6/build
+"BattleTest.RemoveDeadNPCs" start time: Dec 03 02:15 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BattleTest.RemoveDeadNPCs
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BattleTest
+[ RUN      ] BattleTest.RemoveDeadNPCs
+Orc1 is killing Thief1!
+Thief1 was killed by Orc1
+[       OK ] BattleTest.RemoveDeadNPCs (2 ms)
+[----------] 1 test from BattleTest (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BattleTest.RemoveDeadNPCs" end time: Dec 03 02:15 RTZ 2 (çèìà)
+"BattleTest.RemoveDeadNPCs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/15 Testing: BattleTest.ObserverNotification
+12/15 Test: BattleTest.ObserverNotification
+Command: "C:/Users/Xiaomi/Desktop/l6/build/test_l6.exe" "--gtest_filter=BattleTest.ObserverNotification" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l6/build
+"BattleTest.ObserverNotification" start time: Dec 03 02:15 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BattleTest.ObserverNotification
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BattleTest
+[ RUN      ] BattleTest.ObserverNotification
+[       OK ] BattleTest.ObserverNotification (2 ms)
+[----------] 1 test from BattleTest (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BattleTest.ObserverNotification" end time: Dec 03 02:15 RTZ 2 (çèìà)
+"BattleTest.ObserverNotification" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/15 Testing: DungeonEditorTest.SaveAndLoadNPCs
+13/15 Test: DungeonEditorTest.SaveAndLoadNPCs
+Command: "C:/Users/Xiaomi/Desktop/l6/build/test_l6.exe" "--gtest_filter=DungeonEditorTest.SaveAndLoadNPCs" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l6/build
+"DungeonEditorTest.SaveAndLoadNPCs" start time: Dec 03 02:15 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DungeonEditorTest.SaveAndLoadNPCs
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DungeonEditorTest
+[ RUN      ] DungeonEditorTest.SaveAndLoadNPCs
+[       OK ] DungeonEditorTest.SaveAndLoadNPCs (3 ms)
+[----------] 1 test from DungeonEditorTest (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DungeonEditorTest.SaveAndLoadNPCs" end time: Dec 03 02:15 RTZ 2 (çèìà)
+"DungeonEditorTest.SaveAndLoadNPCs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/15 Testing: ObserverTest.ConsoleObserver
+14/15 Test: ObserverTest.ConsoleObserver
+Command: "C:/Users/Xiaomi/Desktop/l6/build/test_l6.exe" "--gtest_filter=ObserverTest.ConsoleObserver" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l6/build
+"ObserverTest.ConsoleObserver" start time: Dec 03 02:15 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ObserverTest.ConsoleObserver
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ObserverTest
+[ RUN      ] ObserverTest.ConsoleObserver
+[       OK ] ObserverTest.ConsoleObserver (1 ms)
+[----------] 1 test from ObserverTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ObserverTest.ConsoleObserver" end time: Dec 03 02:15 RTZ 2 (çèìà)
+"ObserverTest.ConsoleObserver" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/15 Testing: ObserverTest.FileObserver
+15/15 Test: ObserverTest.FileObserver
+Command: "C:/Users/Xiaomi/Desktop/l6/build/test_l6.exe" "--gtest_filter=ObserverTest.FileObserver" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Xiaomi/Desktop/l6/build
+"ObserverTest.FileObserver" start time: Dec 03 02:15 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ObserverTest.FileObserver
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ObserverTest
+[ RUN      ] ObserverTest.FileObserver
+[       OK ] ObserverTest.FileObserver (22 ms)
+[----------] 1 test from ObserverTest (22 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (22 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"ObserverTest.FileObserver" end time: Dec 03 02:15 RTZ 2 (çèìà)
+"ObserverTest.FileObserver" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 03 02:15 RTZ 2 (çèìà)

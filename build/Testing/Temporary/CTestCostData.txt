@@ -1,0 +1,16 @@
+NPCFactoryTest.CreateThief 4 0.00173472
+NPCFactoryTest.CreateOrc 4 0.00198933
+NPCFactoryTest.CreateWerewolf 4 0.00258965
+NPCFactoryTest.CreateInvalidNPC 4 0.00160005
+NPCTest.ThiefCanFightInRange 4 0.0026056
+NPCTest.ThiefCannotFightOutOfRange 4 0.00265312
+NPCTest.InitialState 4 0.00154073
+BattleTest.OrcKillsThief 4 0.00336647
+BattleTest.WerewolfKillsThief 4 0.00337848
+BattleTest.ThiefVsWerewolf 4 0.00330782
+BattleTest.RemoveDeadNPCs 4 0.00373428
+BattleTest.ObserverNotification 4 0.0033819
+DungeonEditorTest.SaveAndLoadNPCs 4 0.0036241
+ObserverTest.ConsoleObserver 4 0.0032463
+ObserverTest.FileObserver 4 0.0169875
+---

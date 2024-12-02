@@ -1,0 +1,2 @@
+Thief Thief1 100 100
+Orc Orc1 200 200

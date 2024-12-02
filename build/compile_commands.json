@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l6/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -g -std=gnu++14 -o CMakeFiles\\DungeonEditorLib.dir\\NPC.cpp.obj -c C:\\Users\\Xiaomi\\Desktop\\l6\\NPC.cpp",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l6\\NPC.cpp",
+  "output": "CMakeFiles\\DungeonEditorLib.dir\\NPC.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l6/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -g -std=gnu++14 -o CMakeFiles\\DungeonEditorLib.dir\\NPCFactory.cpp.obj -c C:\\Users\\Xiaomi\\Desktop\\l6\\NPCFactory.cpp",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l6\\NPCFactory.cpp",
+  "output": "CMakeFiles\\DungeonEditorLib.dir\\NPCFactory.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l6/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -g -std=gnu++14 -o CMakeFiles\\DungeonEditorLib.dir\\Observer.cpp.obj -c C:\\Users\\Xiaomi\\Desktop\\l6\\Observer.cpp",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l6\\Observer.cpp",
+  "output": "CMakeFiles\\DungeonEditorLib.dir\\Observer.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l6/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -g -std=gnu++14 -o CMakeFiles\\DungeonEditorLib.dir\\Battle.cpp.obj -c C:\\Users\\Xiaomi\\Desktop\\l6\\Battle.cpp",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l6\\Battle.cpp",
+  "output": "CMakeFiles\\DungeonEditorLib.dir\\Battle.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l6/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -g -std=gnu++14 -o CMakeFiles\\DungeonEditorLib.dir\\DungeonEditor.cpp.obj -c C:\\Users\\Xiaomi\\Desktop\\l6\\DungeonEditor.cpp",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l6\\DungeonEditor.cpp",
+  "output": "CMakeFiles\\DungeonEditorLib.dir\\DungeonEditor.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l6/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -g -std=gnu++14 -o CMakeFiles\\DungeonEditor.dir\\main.cpp.obj -c C:\\Users\\Xiaomi\\Desktop\\l6\\main.cpp",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l6\\main.cpp",
+  "output": "CMakeFiles\\DungeonEditor.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l6/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -isystem C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/include -isystem C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest -g -std=gnu++14 -o CMakeFiles\\test_l6.dir\\tests.cpp.obj -c C:\\Users\\Xiaomi\\Desktop\\l6\\tests.cpp",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l6\\tests.cpp",
+  "output": "CMakeFiles\\test_l6.dir\\tests.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l6/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -IC:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googlemock/include -IC:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googlemock -isystem C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/include -isystem C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest -g -std=c++14 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\Xiaomi\\Desktop\\l6\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l6\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "output": "_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l6/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -isystem C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googlemock/include -isystem C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googlemock -isystem C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/include -isystem C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest -g -std=c++14 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\Xiaomi\\Desktop\\l6\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l6\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "output": "_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l6/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -IC:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/include -IC:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest -g -std=c++14 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\Xiaomi\\Desktop\\l6\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l6\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "output": "_deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l6/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -isystem C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest/include -isystem C:/Users/Xiaomi/Desktop/l6/build/_deps/googletest-src/googletest -g -std=c++14 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\Xiaomi\\Desktop\\l6\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l6\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "output": "_deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj"
+}
+]
